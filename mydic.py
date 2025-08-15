@@ -24,4 +24,12 @@ dishndics = {
     "dal": "punjab",
     "samosa": "delhi"
 }
+dishndic = {
+    "idli": "kerala",
+    "dosa": "tamilnadu",
+    "biryani": "hyderabad",
+    "dal": "punjab",
+    "samosa": "delhi",
+}
+
 dishndics.update(dishndic) 
